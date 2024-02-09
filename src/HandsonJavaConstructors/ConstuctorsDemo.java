@@ -7,7 +7,7 @@ public class ConstuctorsDemo {
 		System.out.println("hy welcome to java");
 		System.out.println("hy welcome to java");
 		System.out.println("hy welcome to java");
-		System.out.println("hy welcome to java");
+	
 		
 	}
 
